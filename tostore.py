@@ -14,3 +14,6 @@ def multiplicationTable(n):
 num = int(input("Enter number : "))
 
 multiplicationTable(num)
+
+def yummy():
+    pass
